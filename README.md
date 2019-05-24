@@ -8,7 +8,7 @@ Bem-vindo à página do curso de Intodução ao Python para Bioinformática. Nes
 
 O curso está dividido nas duas partes descritas abaixo.
 
-### [Aula 1: Estruturas de dados fundamentais](https://github.com/phdiassantos/python/blob/master/Dia 1.ipynb)
+### [Aula 1: Estruturas de dados fundamentais](https://github.com/phdiassantos/python/blob/master/aula1.ipynb)
 
 São apresentados os principais tipos e estruturas de dados nativas da linguagem Python.
 
