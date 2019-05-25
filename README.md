@@ -8,11 +8,11 @@ Bem-vindo à página do curso de Intodução ao Python para Bioinformática. Nes
 
 O curso está dividido nas duas partes descritas abaixo.
 
-### [Aula 1: Estruturas de dados fundamentais](https://github.com/phdiassantos/python/blob/master/aula1.ipynb)
+### [Aula 1: Estruturas de dados fundamentais](https://github.com/phdiassantos/python/blob/master/Dia1.ipynb)
 
 São apresentados os principais tipos e estruturas de dados nativas da linguagem Python.
 
-### [Aula 2: Estruturas de controle, Funções e Classes](https://github.com/phdiassantos/python/blob/master/Copy_of_aula2.ipynb)
+### [Aula 2: Estruturas de controle, Funções e Classes](https://github.com/phdiassantos/python/blob/master/Dia2.ipynb)
 
 Nesta aula aprenderemos a alterar o fluxo de execução de nossos programas usando estruturas de controle (condicionais e de repetição). Aprenderemos também como encapsular códigos em funções. Finalmente, veremos como o conceito de classes permite ao programador trabalhar com o paradigma de programação orientada a objetos.
 
