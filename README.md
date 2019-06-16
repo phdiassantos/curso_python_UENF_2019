@@ -23,7 +23,7 @@ Nesta aula aprenderemos a alterar o fluxo de execução de nossos programas usan
 
 * Horário: 18h - 22h
 
-* Local: Universidade Estadual do Norte Fluminense Darcy RIbeiro, Sala (A definir)
+* Local: Universidade Estadual do Norte Fluminense Darcy RIbeiro
 
 ## Ministrante
 
